@@ -1,0 +1,38 @@
+#    zsh2401@163.com    #
+#    2017/12/20         #
+#    giti file          #
+
+##files
+*.log
+*.exe
+*.exe.config
+*.exe.config
+*.exp
+*.ipch
+*.metagen
+*.ncb
+*.nupkg
+*.obj
+*.opensdf
+*.pdb
+*.ReSharper
+*.sdf
+*.suo
+*.swp
+*.user
+*.xml
+*.lastcodeanalysissucceeded
+*.zip
+*.rar
+*.lnk
+*.bak
+*.suo
+*.dll
+*.psd
+*.txt
+fast
+makezip
+Bin/*
+##dirs
+.vs/
+obj/

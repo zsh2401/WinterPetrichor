@@ -36,3 +36,4 @@ Bin/*
 ##dirs
 .vs/
 obj/
+!WinterPetrichor.Log
